@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T13:08:09.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="l5VYtXgl7lf5aYqKG8QO" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T13:09:10.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="qA-S837QQ7IZNbawJkcS" version="22.1.7" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="2026" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="xge9RJX2xyidE2T6I-6I-57" value="编译测试&lt;br&gt;Slither静态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xge9RJX2xyidE2T6I-6I-59" value="安全合约" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="380" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
