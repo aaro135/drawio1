@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T13:16:45.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="B7jVzGSyytH9xC6s0JxC" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T13:16:57.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="7LcSIwxh895DPhoLfChR" version="22.1.7" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="2026" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="xge9RJX2xyidE2T6I-6I-13" value="" style="strokeWidth=2;dashed=0;align=center;fontSize=8;shape=rect;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="267" y="100" width="120" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="10b056a9c633e61c-30" value="基于大预言模型的智能合约自动修复技术" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xge9RJX2xyidE2T6I-6I-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xge9RJX2xyidE2T6I-6I-1" target="xge9RJX2xyidE2T6I-6I-18">
           <mxGeometry relative="1" as="geometry" />
